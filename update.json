@@ -1,0 +1,8 @@
+[{
+  "app_Name": "com.example.aydroneyun.apk",
+  "version_Name": "2.0.2",
+  "version_Code": "2",
+  "lastForce" : "1",
+  "updateurl": "http://192.168.1.175:8080/download/versiontest-debug.apk",
+  "upgradeinfo": "V1.0.2版本更新，你想不想要试一下哈！！！"
+}]
